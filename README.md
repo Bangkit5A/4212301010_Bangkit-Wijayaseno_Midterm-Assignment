@@ -19,3 +19,5 @@ Ref:	https://machinelearningmastery.com/loocv-for-evaluating-machine-learningalg
 terbaik.
 
 • Source	code	program	di-upload	di	Github
+
+Youtube Link : https://youtu.be/DTC2Z95uQKk?si=QnQzG12a6A8waAy8
